@@ -2,8 +2,9 @@ List of abriviations:
 
 
 
-SC = Streptoyces cinnabarinus
+SC = Streptomyces cinnabarinus
 
+SC delta rosA = Streptomyces cinnabarinus delta rosA 
 
 SB = Streptomyces berlinensis 
 
