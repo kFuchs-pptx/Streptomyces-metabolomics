@@ -12,10 +12,10 @@ SB = Streptomyces berlinensis
 SD = Streptomyces davaonensis
 
 
-CL = classical molecular networking worklfow gnps2
+CMN = classical molecular networking worklfow (gnps2)
 
 
-FB = featurbased molecular networking worklfow gnps2
+FBMN = featurbased molecular networking worklfow (gnps2)
 
 
 pos = positive ionization-mode
